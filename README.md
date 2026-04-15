@@ -1,6 +1,4 @@
 
-![Descricao da sua imagem](thumb-4663.png)
-
 # Climapp
 
 App de clima que consome uma API e exibe informações como temperatura e data atual, descrição do tempo, umidade, máx e min e previsão para os três próximos dias.
